@@ -479,8 +479,10 @@ ol {
 
 .site-logo {
 	display: inline-block;
-	padding-top: 18px;
+	padding-top: 25px;
 	padding-left: 80px;
+	width: 180px;
+	height:180px;
 }
 
 .header-controls {
@@ -573,6 +575,7 @@ ol {
 .hero-section {
 	clear: both;
 	position: relative;
+	margin-top: 10px;
 }
 
 .hero-item {
